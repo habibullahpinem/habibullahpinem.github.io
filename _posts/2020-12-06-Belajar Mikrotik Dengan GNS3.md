@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Cara Install GNS3 Di Windows
 
