@@ -1,6 +1,10 @@
 ---
 published: false
 ---
-## A New Post
+## Bahan Yang Dibutuhkan
+   1. GNS3
+   2. GNS3 VM
+   3. CHR Mikrotik
+   4. Virtula Box
+  
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
