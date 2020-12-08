@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Bahan Yang Dibutuhkan
    1. GNS3
