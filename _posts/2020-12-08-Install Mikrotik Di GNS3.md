@@ -6,7 +6,7 @@ published: true
    2. CHR Mikrotik
    3. Virtula Box
    
-   install aplikasi yang dibutuhkann , Aplikasi Yang harus di Install ter lebih dahulu :
+    install aplikasi yang dibutuhkann , Aplikasi Yang harus di Install ter lebih dahulu :
    
    1. Virtual Box 
 	  Download aplikasi virtual box di [https://www.virtualbox.org/](https://www.virtualbox.org/) Pilih aplikasi seusai       dengan OS yang di gunakana. 
