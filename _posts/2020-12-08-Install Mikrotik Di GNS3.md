@@ -13,4 +13,4 @@ published: true
    2. GNS3 VM 
    	  Download VM  [GNS VM](https://www.gns3.com/software/download-vm) Pilih yang untuk Virtual Box.
    3. CHR Mikrotik
-      Download CHR Mikrotik  DI [https://download.mikrotik.com/routeros/6.48/chr-6.48.img.zip]         (https://download.mikrotik.com/routeros/6.48/chr-6.48.img.zip )
+      Download CHR Mikrotik  DI [https://download.mikrotik.com/routeros/6.48/chr-6.48.img.zip](https://download.mikrotik.com/routeros/6.48/chr-6.48.img.zip)
