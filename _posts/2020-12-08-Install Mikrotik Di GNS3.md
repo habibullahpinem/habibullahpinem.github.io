@@ -7,7 +7,7 @@ published: true
    3. Virtula Box
    
 ## Pertama 
-   kita install aplikasi yang dibutuhkann Aplikasi Yang harus di Install ter lebih dahulu
+   install aplikasi yang dibutuhkann , Aplikasi Yang harus di Install ter lebih dahulu :
    1. Virtual Box 
 	  Download aplikasi virtual box di [https://www.virtualbox.org/](https://www.virtualbox.org/) Pilih aplikasi seusai dengan OS yang di gunakana. 
    2. GNS3 VM 
